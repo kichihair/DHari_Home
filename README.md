@@ -199,63 +199,27 @@ The database connects customer accounts, accommodation information, and reservat
 
 ![Homepage](screenshots/homepage.png)
 
-#### Homestay Availability Search
+#### Homestay Availability
 
-![Homestay Search](screenshots/homestay_search.png)
-
-#### Customer Registration
-
-![Customer Registration](screenshots/register.png)
-
-#### Customer Login
-
-![Customer Login](screenshots/customer_login.png)
+![Homestay Search](screenshots/availability.png)
 
 #### Reservation Details
 
-![Reservation Details](screenshots/reservation.png)
+![Reservation Details](screenshots/receipt.png)
 
-#### Payment Interface
+#### About
 
-![Payment Interface](screenshots/payment.png)
-
-#### Booking Receipt
-
-![Booking Receipt](screenshots/receipt.png)
-
-#### Booking History
-
-![Booking History](screenshots/booking_history.png)
+![Reservation Details](screenshots/about.png)
 
 ### Administrator Interface
 
-#### Administrator Login
-
-![Administrator Login](screenshots/admin_login.png)
-
 #### Administrator Homepage
 
-![Administrator Homepage](screenshots/admin_homepage.png)
-
-#### Homestay Management
-
-![Homestay Management](screenshots/homestay_management.png)
-
-#### Customer Management
-
-![Customer Management](screenshots/customer_management.png)
-
-#### Administrator Management
-
-![Administrator Management](screenshots/admin_management.png)
-
-#### Reservation Management
-
-![Reservation Management](screenshots/reservation_management.png)
+![Administrator Homepage](screenshots/admin.png)
 
 #### Monthly Income Analysis
 
-![Monthly Income Analysis](screenshots/monthly_analysis.png)
+![Monthly Income Analysis](screenshots/monthly.png)
 
 ## Demo Video
 
