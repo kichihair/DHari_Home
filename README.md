@@ -215,7 +215,7 @@ The database connects customer accounts, accommodation information, and reservat
 
 #### Administrator Homepage
 
-![Administrator Homepage](screenshots/admin.png)
+![Administrator Homepage](screenshots/admin2.png)
 
 #### Monthly Income Analysis
 
